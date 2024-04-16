@@ -6,7 +6,9 @@ A simple rps game played with the server, using Math.random
 
 Use your favorite packet manager and install the dependencies:
 
-```pnpm i```
+```console
+    pnpm i
+```
 
 ## How to play
 
